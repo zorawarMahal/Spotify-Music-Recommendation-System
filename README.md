@@ -1,4 +1,4 @@
-# Spotify-Music-Recommender (Spotify API, Python)
+# Spotify-Music-Recommender (Spotify Developer API, Python)
 **Using Spotify's music data to build a music recommendation system
 **
 
